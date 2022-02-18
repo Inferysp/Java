@@ -1,0 +1,11 @@
+Kowalski, Jan, Warszawa, Czeczejki 2, 0, 1000
+Kêpa, S³awomir, Warszawa, Czeczejki 2, 25000.70, 10000.40
+Wysocki, Bartosz, Kraków, Morelowa 23, 125000.70, 10000.40, null, null
+Urbaniak, Jadwiga, Kraków, Ró¿ana 10, 2500.70, 10000.40
+Zaw³odzki, Urszula, Gdañsk, Rysia 22, 25000.70, 10000.40
+Magister, Tadeusz, Rzeszów, Nadwiœlañska 100, 25000.70, 10000.40
+Dudziak, Patrycja, Sanok, podskarbiñska 45, 25000.70, 1000000.00
+Szymczyk, Aleksandra, Warszawa, Czeladników 12, 25000.70, 10000.40
+Szymczyk, Aleksandra, Warszawa, 
+Szymczyk, Aleksandra, Warszawa, Czeladników 12, 25000.70, 10000.40
+Magister, Tadeusz, Rzeszów, Nadwiœlañska 100, 25000.70, 10000.40

@@ -1,0 +1,32 @@
+Jacek, Walczewski, male, 201 000 999, , jwalcz@ccc.pl, !INCYDENTALNY, , , null, null, null, 
+Arkadiusz, Paszyñski, male, , 2680980, apa@aaa.pl, ABC Sp. z o.o, 111-11-11-128, Kraków, null, null, null, 
+Jan, Antczak, male, 201 666 888, 2690033, , ZEFIR J.Nowak i E.Nowak, 222-22-22-222, Kraków, null, null, null, 
+Klaus, Schmidt, male, , 7654354, klasch@abc.de, ROLMAP S.A, 333-33-33-333, Tarnobrzeg, null, null, null, 
+Józef, Kaczkowski, male, 302 777 888, , , ASPEN GmbH, , 45127 Essen, null, null, null, 
+El¿bieta, Kurska, male, , , elakur@ccc.pl, Warsztat Samochodowy DRYNDA
+Wies³aw Goluch, 234-23-44-548, Jarocin, null, null, null, 
+Micha³, Wodny, male, , , , EnergoEko - Fabryka Energii Ekologicznej, 765-42-92-350, Dzier¿oniów, null, null, null, 
+Janina, Kowalska, male, , , , FISZBIN - Sklep zoologiczny
+Joanna Mazowiecka, 654-78-76-860, Szczecin, null, null, null, 
+Pawe³, Duñski, male, , , , Full Garden - Wszystko do ogrodu
+Jacek C³apek, Witold Generalny, 456-23-46-591, Bydgoszcz, null, null, null, 
+Przemys³aw, Miœkiewicz, male, , , , Sklep spo¿ywczy - £ukasz Gawron, 876-09-45-064, Przybynów, null, null, null, 
+Piotr, Adamowicz, male, , , , Kwiaciarnia HIACYNT
+Teresa Smuga, 298-09-76-514, £ódŸ, null, null, null, 
+Adam, Beskidzki, male, , , , Firma poligraficzna KLON - us³ugi kserograficzne
+Jerzy Sklonowany, 123-45-55-236, Radom, null, null, null, 
+Joanna, Maliniak, male, , , , Agencja reklamowa KOBRA
+Hektor Janiak i wspólnicy, 345-34-67-125, Poznañ, null, null, null, 
+Wojciech, Wawrzyniak, male, , , , Biuro turystyczne KURORT
+Stanis³aw Mielecki, 949-02-33-442, Mielec, null, null, null, 
+Zbigniew, Drzyma³a, male, , , , MEDIA-SOFT S.A.
+Centrala Warszawa, 957-09-81-264, Warszawa, null, null, null, 
+Teofil, Niepsuj, male, , , , MEDYCON - Spó³ka Komandytowa
+Jadwiga Olszewska, Jan Gembula, 543-12-32-309, Namys³ów, null, null, null, 
+Barbara, Mrzyg³ód, male, , , , MetkoPol Spó³ka Jawna
+Karmelicki Krzysztof i Syn, 976-09-89-234, Lubliniec, null, null, null, 
+Marian, Hawranek, male, , , , Salon fryzjerski - PAPILOT
+Ewa Grzebieñ, 295-38-19-839, Ostrów Wielkopolski, null, null, null, 
+Jaros³aw, Kobylski, male, , , , Firma SENO
+Marta Mas³y, Wioletta Krupa, 765-78-01-220, Kielce, null, null, null, 
+Bogumi³a, Kosmyk, male, , , , SETKA - Sieæ Sklepów Spo¿ywczych Sp. z o.o., 123-23-45-670, Czêstochowa, null, null, null, 

@@ -1,0 +1,21 @@
+Jacek ,/. Walczewski ,/. male ,/. 201 000 999 ,/.  brak ,/. jwalcz@ccc.pl ,/. !INCYDENTALNY ,/.  brak ,/.  brak ,/.  brak ,/.  brak ,/. 0 ,/. 
+Arkadiusz ,/. Paszyñski ,/. male ,/.  brak ,/. 2680980 ,/. apa@aaa.pl ,/. ABC Sp. z o.o ,/. 111-11-11-128 ,/. Kraków ,/. Nowa ,/. 1 ,/. 30140 ,/. 
+Jan ,/. Antczak ,/. male ,/. 201 666 888 ,/. 2690033 ,/.  brak ,/. ZEFIR J.Nowak i E.Nowak ,/. 222-22-22-222 ,/. Kraków ,/. Podzamcze ,/. 29 ,/. 30696 ,/. 
+Klaus ,/. Schmidt ,/. male ,/.  brak ,/. 7654354 ,/. klasch@abc.de ,/. ROLMAP S.A ,/. 333-33-33-333 ,/. Tarnobrzeg ,/. Toruñska ,/. 45 ,/. 4509 ,/. 
+Józef ,/. Kaczkowski ,/. male ,/. 302 777 888 ,/.  brak ,/.  brak ,/. ASPEN GmbH ,/.  brak ,/. 45127 Essen ,/. Berliner Strasse ,/. 3 ,/. 0 ,/. 
+El¿bieta ,/. Kurska ,/. male ,/.  brak ,/.  brakdd ,/. elakur@ccc.pl ,/. Warsztat Samochodowy DRYNDA  Wies³aw Goluch ,/. 234-23-44-548 ,/. Jarocin ,/. Krakowska ,/. 54 ,/. 34962 ,/. 
+Micha³ ,/. Wodny ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. EnergoEko - Fabryka Energii Ekologicznej ,/. 765-42-92-350 ,/. Dzier¿oniów ,/. Przemys³owa ,/. 3 ,/. 31528 ,/. 
+Janina ,/. Kowalska ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. FISZBIN - Sklep zoologiczny  Joanna Mazowiecka ,/. 654-78-76-860 ,/. Szczecin ,/. Legionów Polskich ,/. 67/32 ,/. 76987 ,/. 
+Pawe³ ,/. Duñski ,/. male ,/.  brak ,/.  d ,/.  brak ,/. Full Garden - Wszystko do ogrodu  Jacek C³apek, Witold Generalny ,/. 456-23-46-591 ,/. Bydgoszcz ,/. Mostowa ,/. 7 ,/. 41865 ,/. 
+Przemys³aw ,/. Miœkiewicz ,/. male ,/.  brak ,/.  brakd ,/.  brak ,/. Sklep spo¿ywczy - £ukasz Gawron ,/. 876-09-45-064 ,/. Przybynów ,/. Przybynów ,/. 123 ,/. 0 ,/. 
+Piotr ,/. Adamowicz ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. Kwiaciarnia HIACYNT  Teresa Smuga ,/. 298-09-76-514 ,/. £ódŸ ,/. Jesienna ,/. 34 ,/. 13543 ,/. 
+Adam ,/. Beskidzki ,/. male ,/.  brak ,/. d ,/.  brak ,/. Firma poligraficzna KLON - us³ugi kserograficzne  Jerzy Sklonowany ,/. 123-45-55-236 ,/. Radom ,/. 3-go Maja ,/. 96 ,/. 56209 ,/. 
+Joanna ,/. Maliniak ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. Agencja reklamowa KOBRA  Hektor Janiak i wspólnicy ,/. 345-34-67-125 ,/. Poznañ ,/. ul. G³ówna ,/. 73 ,/. 37652 ,/. 
+Wojciech ,/. Wawrzyniak ,/. male ,/.  brak ,/.  d ,/.  brak ,/. Biuro turystyczne KURORT  Stanis³aw Mielecki ,/. 949-02-33-442 ,/. Mielec ,/. Rzeszowska ,/. 56 ,/. 90987 ,/. 
+Zbigniew ,/. Drzyma³a ,/. male ,/.  brak ,/.  brakd ,/.  brak ,/. MEDIA-SOFT S.A.  Centrala Warszawa ,/. 957-09-81-264 ,/. Warszawa ,/. Al. Jerozolimskie ,/. 204 ,/. 20099 ,/. 
+Teofil ,/. Niepsuj ,/. male ,/.  brak ,/.  d ,/.  brak ,/. MEDYCON - Spó³ka Komandytowa  Jadwiga Olszewska, Jan Gembula ,/. 543-12-32-309 ,/. Namys³ów ,/. S¹dowa ,/. 40 ,/. 92076 ,/. 
+Barbara ,/. Mrzyg³ód ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. MetkoPol Spó³ka Jawna  Karmelicki Krzysztof i Syn ,/. 976-09-89-234 ,/. Lubliniec ,/. Boronowska ,/. 2 ,/. 42456 ,/. 
+Marian ,/. Hawranek ,/. male ,/.  brak ,/. d ,/.  brak ,/. Salon fryzjerski - PAPILOT  Ewa Grzebieñ ,/. 295-38-19-839 ,/. Ostrów Wielkopolski ,/. Podgórna ,/. 45 ,/. 98340 ,/. 
+Jaros³aw ,/. Kobylski ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. Firma SENO  Marta Mas³y, Wioletta Krupa ,/. 765-78-01-220 ,/. Kielce ,/. Siedlecka ,/. 32 ,/. 82038 ,/. 
+Bogumi³a ,/. Kosmyk ,/. male ,/.  brak ,/.  d ,/.  brak ,/. SETKA - Sieæ Sklepów Spo¿ywczych Sp. z o.o. ,/. 123-23-45-670 ,/. Czêstochowa ,/. Konopnickiej ,/. 12 ,/. 42200 ,/. 
+Krzysztof ,/. Bukowski ,/. male ,/.  brak ,/.  brak ,/.  brak ,/. Huta szk³a artystycznego "Szkie³ko i Oko" S.A. ,/. 123-34-78-893 ,/. Zielona Góra ,/. Fabryczna ,/. 1 ,/. 52095 ,/. 

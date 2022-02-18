@@ -1,0 +1,21 @@
+Jacek ,/. Walczewski ,/. male ,/. 201 000 999 ,/. test ,/. jwalcz@ccc.pl ,/. bez nazwy ,/.  Brak ,/. test ,/. test ,/. 1111 ,/. 11111 ,/. 
+Arkadiusz ,/. Paszyñski ,/. male ,/.  Brak ,/. 2680980 ,/. apa@aaa.pl ,/. ABC Sp. z o.o ,/. 111-11-11-128 ,/. Kraków ,/. Nowa ,/. 1 ,/. 30140 ,/. 
+Jan ,/. Antczak ,/. male ,/. 201 666 888 ,/. 2690033 ,/.  Brak ,/. ZEFIR J.Nowak i E.Nowak ,/. 222-22-22-222 ,/. Kraków ,/. Podzamcze ,/. 29 ,/. 30696 ,/. 
+Klaus ,/. Schmidt ,/. male ,/. 5555555555 ,/. 7654354 ,/. klasch@abc.de ,/. ROLMAP S.A ,/. 333-33-33-333 ,/. Tarnobrzeg ,/. Toruñska ,/. 45 ,/. 4509 ,/. 
+Józef ,/. Kaczkowski ,/. male ,/. 302 777 888 ,/.  Brak ,/.  Brak ,/. ASPEN GmbH ,/.  Brak ,/. 45127 Essen ,/. Berliner Strasse ,/. 3 ,/. 0 ,/. 
+El¿bieta ,/. Kurska ,/. male ,/. 121212121212 ,/.  Brak ,/. elakur@ccc.pl ,/. Warsztat Samochodowy DRYNDA  Wies³aw Goluch ,/. 234-23-44-548 ,/. Jarocin ,/. Krakowska ,/. 54 ,/. 34962 ,/. 
+test ,/. test ,/. male ,/. test ,/. test ,/. test ,/. test ,/. test ,/. test ,/. test ,/. 1111 ,/. 11111 ,/. 
+Janina ,/. Kowalska ,/. male ,/.  Brak ,/.  Brak ,/. test ,/. FISZBIN - Sklep zoologiczny  Joanna Mazowiecka ,/. 654-78-76-860 ,/. Szczecin ,/. Legionów Polskich ,/. 67/32 ,/. 76987 ,/. 
+Pawe³ ,/. Duñski ,/. male ,/.  Brak ,/.  Brak ,/. test ,/. Full Garden - Wszystko do ogrodu  Jacek C³apek, Witold Generalny ,/. 456-23-46-591 ,/. Bydgoszcz ,/. Mostowa ,/. 7 ,/. 41865 ,/. 
+Przemys³aw ,/. Miœkiewicz ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. Sklep spo¿ywczy - £ukasz Gawron ,/. 876-09-45-064 ,/. Przybynów ,/. Przybynów ,/. 123 ,/. 77777 ,/. 
+Arkadiusz ,/. Paszyñski ,/. male ,/.  Brak ,/. 2680980 ,/. apa@aaa.pl ,/. ABC Sp. z o.o ,/. 111-11-11-128 ,/. £ódŸ ,/. Nowa ,/. 1 ,/. 30140 ,/. 
+test ,/. test ,/. male ,/. test ,/. test ,/. test ,/. test ,/. test ,/. Zielona Góra ,/. test ,/. 1111 ,/. 11111 ,/. 
+Joanna ,/. Maliniak ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. Agencja reklamowa KOBRA  Hektor Janiak i wspólnicy ,/. 345-34-67-125 ,/. Poznañ ,/. ul. G³ówna ,/. 73 ,/. 37652 ,/. 
+Wojciech ,/. Wawrzyniak ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. Biuro turystyczne KURORT  Stanis³aw Mielecki ,/. 949-02-33-442 ,/. Mielec ,/. Rzeszowska ,/. 56 ,/. 90987 ,/. 
+ Brak ,/.  Brak ,/. female ,/.  Brak ,/.  Brak ,/.  Brak ,/. MEDIA-SOFT S.A.  Centrala Warszawa ,/. test ,/.  Brak ,/. Brak ,/.  Brak ,/.  Brak ,/. 
+Teofil ,/. Niepsuj ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. MEDYCON - Spó³ka Komandytowa  Jadwiga Olszewska, Jan Gembula ,/. 543-12-32-309 ,/. Namys³ów ,/. S¹dowa ,/. 40 ,/. 92076 ,/. 
+Barbara ,/. Mrzyg³ód ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. MetkoPol Spó³ka Jawna  Karmelicki Krzysztof i Syn ,/. 976-09-89-234 ,/. Lubliniec ,/. Boronowska ,/. 2 ,/. 42456 ,/. 
+Marian ,/. Hawranek ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. Salon fryzjerski - PAPILOT  Ewa Grzebieñ ,/. 295-38-19-839 ,/. Ostrów Wielkopolski ,/. Podgórna ,/. 45 ,/. 98340 ,/. 
+Jaros³aw ,/. Kobylski ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. Firma SENO  Marta Mas³y, Wioletta Krupa ,/. 765-78-01-220 ,/. Kielce ,/. Siedlecka ,/. 32 ,/. 82038 ,/. 
+Bogumi³a ,/. Kosmyk ,/. male ,/.  Brak ,/.  Brak ,/.  Brak ,/. SETKA - Sieæ Sklepów Spo¿ywczych Sp. z o.o. ,/. 123-23-45-670 ,/. Czêstochowa ,/. Konopnickiej ,/. 12 ,/. 42200 ,/. 
+Jan ,/. Antczak ,/. male ,/. 201 666 888 ,/. 2690033 ,/. test@test.pl ,/. ZEFIR J.Nowak i E.Nowak ,/. 222-22-22-222 ,/. Zielona Góra ,/. Podzamcze ,/. 29 ,/. 30696 ,/. 

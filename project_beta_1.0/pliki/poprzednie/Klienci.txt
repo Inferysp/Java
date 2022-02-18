@@ -1,0 +1,8 @@
+Kowalski, Ja, Warszawa, Czeczejki 2, 765.654.0309, 1200.50, 1000.40
+Kêpa, S³awomir, Warszawa, Czeczejki 2, (112)322-2109, 25000.70, 100000.40
+Wysocki, Bartosz, Kraków, Morelowa 23, 543-605-3309, 2500.70, 0
+Urbaniak, Jadwiga, kraków, Ró¿ana 10, 543-605-3090, 2500.70, 10000.40
+Zaw³odzki, urszula, Gdañsk, Rysia 22, 6005015050, 0, 10000.40
+Politañczykowianeczka-Brzêczyszczykiewicz, Urszula, gdañsk, Rysia 22, 600-501-5590, 25000.70, 10000.40
+dudziak, Patrycja, Sanok, podskarbiñska 45, 122-100-700, 25000.70, 1000000.00
+Szymczyk, Aleksandra, Warszawa, Czeladników 12, 200-054-012, 25000.70, 10000.40

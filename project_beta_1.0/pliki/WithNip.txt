@@ -1,0 +1,21 @@
+Jacek ,/. Walczewski ,/. male ,/. 201 000 999 ,/. test ,/. jwalcz@ccc.pl ,/. !INCYDENTALNY ,/. 111-11-11-111 ,/. test ,/. test ,/. 1111 ,/. 11111 ,/. 
+Arkadiusz ,/. Paszyñski ,/. male ,/. Empty_Cell ,/. 2680980 ,/. apa@aaa.pl ,/. ABC Sp. z o.o ,/. 111-11-11-128 ,/. Kraków ,/. Nowa ,/. 1 ,/. 30140 ,/. 
+Jan ,/. Antczak ,/. male ,/. 201 666 888 ,/. 2690033 ,/. Empty_Cell ,/. ZEFIR J.Nowak i E.Nowak ,/. 222-22-22-222 ,/. Kraków ,/. Podzamcze ,/. 29 ,/. 30696 ,/. 
+Klaus ,/. Schmidt ,/. male ,/. 5555555555 ,/. 7654354 ,/. klasch@abc.de ,/. ROLMAP S.A ,/. 333-33-33-333 ,/. Tarnobrzeg ,/. Toruñska ,/. 45 ,/. 4509 ,/. 
+Józef ,/. Kaczkowski ,/. male ,/. 302 777 888 ,/. Empty_Cell ,/. Empty_Cell ,/. ASPEN GmbH ,/. 111-11-11-111 ,/. 45127 Essen ,/. Berliner Strasse ,/. 3 ,/. 0 ,/. 
+El¿bieta ,/. Kurska ,/. male ,/. 121212121212 ,/. Empty_Cell ,/. elakur@ccc.pl ,/. Warsztat Samochodowy DRYNDA  Wies³aw Goluch ,/. 234-23-44-548 ,/. Jarocin ,/. Krakowska ,/. 54 ,/. 34962 ,/. 
+test ,/. test ,/. male ,/. test ,/. test ,/. test ,/. test ,/. 111-11-11-111 ,/. test ,/. test ,/. 1111 ,/. 11111 ,/. 
+Janina ,/. Kowalska ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. test ,/. FISZBIN - Sklep zoologiczny  Joanna Mazowiecka ,/. 654-78-76-860 ,/. Szczecin ,/. Legionów Polskich ,/. 2 ,/. 76987 ,/. 
+Pawe³ ,/. Duñski ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. test ,/. Full Garden - Wszystko do ogrodu  Jacek C³apek, Witold Generalny ,/. 456-23-46-591 ,/. Bydgoszcz ,/. Mostowa ,/. 7 ,/. 41865 ,/. 
+Przemys³aw ,/. Miœkiewicz ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. Sklep spo¿ywczy - £ukasz Gawron ,/. 876-09-45-064 ,/. Przybynów ,/. Przybynów ,/. 123 ,/. 77777 ,/. 
+Arkadiusz ,/. Paszyñski ,/. male ,/. Empty_Cell ,/. 2680980 ,/. apa@aaa.pl ,/. ABC Sp. z o.o ,/. 111-11-11-128 ,/. £ódŸ ,/. Nowa ,/. 1 ,/. 30140 ,/. 
+test ,/. test ,/. male ,/. test ,/. test ,/. test ,/. test ,/. 111-11-11-111 ,/. Zielona Góra ,/. test ,/. 1111 ,/. 11111 ,/. 
+Joanna ,/. Maliniak ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. Agencja reklamowa KOBRA  Hektor Janiak i wspólnicy ,/. 345-34-67-125 ,/. Poznañ ,/. ul. G³ówna ,/. 73 ,/. 37652 ,/. 
+Wojciech ,/. Wawrzyniak ,/. male ,/. 555555555 ,/. 5555555 ,/. Empty_Cell ,/. Biuro turystyczne KURORT  Stanis³aw Mielecki ,/. 949-02-33-442 ,/. Mielec ,/. Rzeszowska ,/. 56 ,/. 90987 ,/. 
+Zbigniew ,/. Drzyma³a ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. MEDIA-SOFT S.A.  Centrala Warszawa ,/. 957-09-81-264 ,/. Warszawa ,/. Al. Jerozolimskie ,/. 204 ,/. 20099 ,/. 
+Teofil ,/. Niepsuj ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. MEDYCON - Spó³ka Komandytowa  Jadwiga Olszewska, Jan Gembula ,/. 543-12-32-309 ,/. Namys³ów ,/. S¹dowa ,/. 40 ,/. 92076 ,/. 
+Barbara ,/. Mrzyg³ód ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. MetkoPol Spó³ka Jawna  Karmelicki Krzysztof i Syn ,/. 976-09-89-234 ,/. Lubliniec ,/. Boronowska ,/. 2 ,/. 42456 ,/. 
+Marian ,/. Hawranek ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. Salon fryzjerski - PAPILOT  Ewa Grzebieñ ,/. 295-38-19-839 ,/. Ostrów Wielkopolski ,/. Podgórna ,/. 45 ,/. 98340 ,/. 
+Jaros³aw ,/. Kobylski ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. Firma SENO  Marta Mas³y, Wioletta Krupa ,/. 765-78-01-220 ,/. Kielce ,/. Siedlecka ,/. 32 ,/. 82038 ,/. 
+Bogumi³a ,/. Kosmyk ,/. male ,/. Empty_Cell ,/. Empty_Cell ,/. Empty_Cell ,/. SETKA - Sieæ Sklepów Spo¿ywczych Sp. z o.o. ,/. 123-23-45-670 ,/. Czêstochowa ,/. Konopnickiej ,/. 12 ,/. 42200 ,/. 
+Jan ,/. Antczak ,/. male ,/. 201 666 888 ,/. 2690033 ,/. Empty_Cell ,/. ZEFIR J.Nowak i E.Nowak ,/. 222-22-22-222 ,/. Zielona Góra ,/. Podzamcze ,/. 29 ,/. 30696 ,/. 

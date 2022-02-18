@@ -1,0 +1,8 @@
+inValid: Ja, Kowalski, Warszawa, Czeczejki 2, inValid: 765.654.0309, 1200.50, 1000.40, 
+S³awomir, Kêpa, Warszawa, Czeczejki 2, inValid: (112)322-2109, 25000.70, 100000.40, 
+Bartosz, Wysocki, Kraków, Morelowa 23, inValid: 543-605-3309, 2500.70, 10, 
+Jadwiga, Urbaniak, inValid: kraków, Ró¿ana 10, inValid: 543-605-3090, 2500.70, 10000.40, 
+inValid: urszula, Zaw³odzki, Gdañsk, Rysia 22, inValid: 6005015050, 10, 10000.40, 
+Urszula, inValid: Politañczykowianeczka-Brzêczyszczykiewicz, inValid: gdañsk, Rysia 22, inValid: 600-501-5590, 25000.70, 10000.40, 
+Patrycja, inValid: dudziak, Sanok, podskarbiñska 45, 122-100-700, 25000.70, 1000000.00, 
+Aleksandra, Szymczyk, Warszawa, Czeladników 12, 200-054-012, 25000.70, 10000.40, 
